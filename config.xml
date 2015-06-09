@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.revivalx.cordova.geolocation" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>GeolocationCordova</name>
+    <description>
+        This source code provides example about the device's location, such as latitude and longitude.
+    </description>
+    <author email="nurdinnorazanservices@gmail.com" href="http://revivalx.com">
+        Mohammad Nurdin bin Norazan
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	
+</widget>
